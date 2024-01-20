@@ -1,0 +1,72 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0f80d380-865a-4d3e-97a4-ceb95fb0399b)
+
+  (paper "A4")
+
+  (title_block
+    (title "M.E.S.S.I Basic")
+    (date "2024-01-19")
+    (rev "2")
+    (company "Desert Shed Studio")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 200.66 75.946) (size 51.054 51.054)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3d8e968b-89f2-4b97-bdb7-4a5a9d698d2c)
+    (property "Sheetname" "CONN" (at 225.806 69.596 0)
+      (effects (font (size 7.62 7.62) bold))
+    )
+    (property "Sheetfile" "conn.kicad_sch" (at 200.66 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "M.E.S.S.I Basic"
+        (path "/0f80d380-865a-4d3e-97a4-ceb95fb0399b" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 124.46 75.946) (size 50.8 51.054)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3e8e4a49-026a-4f22-8f59-9c01b40dd0eb)
+    (property "Sheetname" "RS422" (at 150.114 69.342 0)
+      (effects (font (size 7.62 7.62) bold))
+    )
+    (property "Sheetfile" "rs422.kicad_sch" (at 124.46 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "M.E.S.S.I Basic"
+        (path "/0f80d380-865a-4d3e-97a4-ceb95fb0399b" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 48.514 75.946) (size 50.292 51.054)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f2065de0-7868-4a13-844d-bbbd5698f264)
+    (property "Sheetname" "Power" (at 73.914 69.342 0)
+      (effects (font (size 7.62 7.62) bold))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 48.514 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "M.E.S.S.I Basic"
+        (path "/0f80d380-865a-4d3e-97a4-ceb95fb0399b" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
