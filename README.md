@@ -2,7 +2,7 @@ M.E.S.S.I Basic
 ============
 
 The "M.E.S.S.I Basic" is an open source hardware design, implementing a RS422 <br>
-interface for use with Mesa Ethernet anything I/O Cards and Mesa Electronics <br>
+interface for use with Mesa Ethernet Anything I/O Cards and Mesa Electronics <br>
 smart serial daugther cards.
 
 M.E.S.S.I <br>
@@ -13,7 +13,7 @@ This repository is aimed towards those who wish to manufacture their own boards.
 Board Rendering
 ============
 
-* [M.E.S.S.I-Basic-Top](https://github.com/DesertShedStudio/M.E.S.S.I-Basic/Images/00.jpg)
+![photo](Images/00.jpg)
 
 License
 =======
