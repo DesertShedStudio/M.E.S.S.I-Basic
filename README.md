@@ -13,7 +13,7 @@ This repository is aimed towards those who wish to manufacture their own boards.
 Board Rendering
 ============
 
-* [M.E.S.S.I-Basic-Top](https://github.com/DesertShedStudio/M.E.S.S.I-Basic/images/00.jpg)
+* [M.E.S.S.I-Basic-Top](https://github.com/DesertShedStudio/M.E.S.S.I-Basic/Images/00.jpg)
 
 License
 =======
