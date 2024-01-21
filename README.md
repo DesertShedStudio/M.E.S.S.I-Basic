@@ -1,9 +1,9 @@
 M.E.S.S.I Basic
 ============
 
-The "M.E.S.S.I Basic" is an open source hardware design, implementing a RS422 <br>
+The "M.E.S.S.I Basic" is an open source hardware design, implementing a RS-422 <br>
 interface for use with Mesa Ethernet Anything I/O Cards and Mesa Electronics <br>
-smart serial daugther cards.
+smart serial daughter cards.
 
 M.E.S.S.I <br>
 "Mesa Electronics Smart Serial Interface"
