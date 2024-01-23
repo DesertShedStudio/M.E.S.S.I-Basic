@@ -992,7 +992,7 @@
     (property "Reference" "J1" (at 111.252 72.644 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Value" "2383942-4" (at 106.172 74.93 0)
+    (property "Value" "TE 2383942-4" (at 104.14 74.93 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Footprint" "Custom_Footprints:TE_23823942-4" (at 111.76 91.44 0)

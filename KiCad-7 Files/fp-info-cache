@@ -1,4 +1,4 @@
-21508546280860594
+21510252324948342
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51421,6 +51421,13 @@ Molex Shielded RJ45 Ethernet
 0
 10
 9
+Custom_Footprints
+OSHWA_US002600
+
+
+0
+0
+0
 Custom_Footprints
 Pheonix_1771062
 
