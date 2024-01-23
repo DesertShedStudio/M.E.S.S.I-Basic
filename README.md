@@ -1,19 +1,20 @@
 M.E.S.S.I Basic
 ============
 
-The "M.E.S.S.I Basic" is an open source hardware design, implementing a RS-422 <br>
-interface for use with Mesa Ethernet Anything I/O Cards and Mesa Electronics <br>
-smart serial daughter cards.
+The "M.E.S.S.I Basic" is an open source OSHWA Certified hardware design, implementing a RS-422 interface for use with Mesa Ethernet Anything 
+I/O Cards and Mesa Electronics smart serial daughter cards.
 
 M.E.S.S.I <br>
 "Mesa Electronics Smart Serial Interface"
+
+<img src="Images/certification-mark-US002600-stacked.svg" width=30% height=30%>
 
 This repository is aimed towards those who wish to manufacture their own boards. 
 
 Board Rendering
 ============
 
-![photo](Images/00.jpg)
+![M.E.S.S.I Basic Rendering](Images/00.jpg)
 
 License
 =======
